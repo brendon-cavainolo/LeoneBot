@@ -99,5 +99,6 @@ class createClassCommand(commands.Cog): #extends
         # else:
         #     await ctx.channel.send('You do not have permission for this command')
 
-def setup(bot):#required
-    bot.add_cog(createClassCommand(bot))
+async def setup(client):
+    # needs to be awaited as of version 2.0
+	await client.add_cog(createClassCommand(client))

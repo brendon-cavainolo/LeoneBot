@@ -18,6 +18,7 @@ class pingCommand(commands.Cog): #extends
     async def ping(self, ctx):# self is instance of class
         await ctx.channel.send(f'pong!')
 
-def setup(bot):#required
-    bot.add_cog(pingCommand(bot))
+async def setup(client):
+    # needs to be awaited as of version 2.0
+	await client.add_cog(pingCommand(client))
 

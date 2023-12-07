@@ -37,7 +37,7 @@ class registerCommand(commands.Cog): #extends
         else: 
             await ctx.channel.send('This class does not exist. Please check your input again or message a mod if you believe there is an error.\n')
 
-def setup(bot):#required
-    bot.add_cog(registerCommand(bot))
-
+async def setup(client):
+    # needs to be awaited as of version 2.0
+	await client.add_cog(registerCommand(client))
 # check documentation on kick and class discord.ExpireBehavior

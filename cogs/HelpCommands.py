@@ -5,5 +5,6 @@ class HelpCommands(commands.Cog):
         self.bot = bot
 
 
-def setup(bot):
-    bot.add_cog(HelpCommands(bot))
+async def setup(client):
+    # needs to be awaited as of version 2.0
+	await client.add_cog(HelpCommands(client))

@@ -3,7 +3,9 @@ from discord.ext import commands, tasks
 # from Data import config
 import requests # make http requests and returns .json files
 import json
+import asyncio
 import random, os
+from dotenv import load_dotenv
 
 
 def get_quote():
@@ -31,22 +33,24 @@ def get_quote():
 #    pass
 
 #client = Client()
-client = commands.Bot(command_prefix= "!")
+load_dotenv()
+TOKEN=os.getenv("DISCORD_TOKEN")
+
+
+description='''register for classes'''
+intents = discord.Intents.default()
+intents.members = True
+intents.message_content = True
+client = commands.Bot(command_prefix='!', description=description, intents = intents)
                     #   config.prefix)
 
 @client.event
 async def on_ready():
-    print('LeoneBot is logged in !')
+    print('RegistrarBot is logged in !')
 
 extensions= os.listdir('cogs')
 
 print(extensions)
-
-
-if __name__ == '__main__':
-    for ext in extensions:
-        if '.py' in ext:
-            client.load_extension('cogs.'+ ext.removesuffix('.py'))
 
 # extensions = 'cogs.CommandEvents'
 
@@ -54,6 +58,14 @@ if __name__ == '__main__':
 #     for ext in extensions:
 #         client.load_extension(ext)
 
-client.run(os.environ.get('DISCORD_TOKEN'))
+async def main():
+    for filename in os.listdir('./cogs'):
+        if filename.endswith(".py"):
+            await client.load_extension(f'cogs.{filename[:-3]}')
+    
+    async with client:
+        await client.start(TOKEN)
+
+asyncio.run(main())
 # client.run(process.env.DISCORD_TOKEN)
 # client.run(config.token)

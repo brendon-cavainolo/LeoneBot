@@ -18,6 +18,7 @@ class CommandEvents(commands.Cog): #extends
         await ctx.channel.send(arg)
 
 
-def setup(bot):#required
-    bot.add_cog(CommandEvents(bot))
+async def setup(client):
+    # needs to be awaited as of version 2.0
+	await client.add_cog(CommandEvents(client))
 
