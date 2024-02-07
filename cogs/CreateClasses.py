@@ -14,6 +14,18 @@ class createClassCommand(commands.Cog): #extends
     async def create_classes(self, ctx): #member: discord.Member: self is instance of class
         def replace(text):
             name = "no name"
+            if text == 'ose':
+                name = 'Optics & Photonics'
+            if text == 'env':
+                name = 'Engineering: Environmental'
+            if text == 'ein' or text == 'esi':
+                name = 'Engineering: Industrial'
+            if text == 'eee' or text == 'eel' or text == 'cnt':
+                name = 'Engineering: Electrical/Computer'
+            if text == 'cgn' or text == 'tte' or text == 'ceg' or text == 'cce' or text == 'ces' or text == 'cwr':
+                name = 'Engineering: Civil'
+            if text == 'bme':
+                name = 'Engineering: Biomedical'
             if text == 'eas':
                 name = 'Engineering: Aerospace'
             if text == 'egn':
@@ -22,8 +34,8 @@ class createClassCommand(commands.Cog): #extends
                 name = 'Engineering: Materials'
             if text == 'eml':
                 name = 'Engineering: Mechanical'
-            if text == 'mac':
-                name = 'Mathematics, Calculus, and PreCalculus'
+            if text == 'mac' or text == 'map':
+                name = 'Mathematics'
             return name  
         
         if ctx.author.guild_permissions.administrator == True:
@@ -32,6 +44,9 @@ class createClassCommand(commands.Cog): #extends
             first_letters = ""
             category = None
             category2 = None
+            admin_role = discord.utils.get(guild.roles, name="Admin")
+            mod_role = discord.utils.get(guild.roles, name="Moderator")
+            ModBot = discord.utils.get(guild.roles, name="ModBot")
             # save attachment to server
             file = ctx.message.attachments[0].filename
             print(file)
@@ -43,6 +58,9 @@ class createClassCommand(commands.Cog): #extends
             
             overwrites = {
                 ctx.guild.default_role: discord.PermissionOverwrite(read_messages= False), 
+                ctx.guild.admin_role: discord.PermissionOverwrite(read_messages= True),
+                ctx.guild.mod_role: discord.PermissionOverwrite(read_messages= True),
+                ctx.guild.ModBot: discord.PermissionOverwrite(read_messages= True),
             }
             # pull prefix from sections of classes
             for section in sections:
@@ -55,11 +73,13 @@ class createClassCommand(commands.Cog): #extends
                     # place new prefix into list
                     list_of_prefix.append(first_letters)
                     
+                    #check if category exists
+
                     category = await ctx.guild.create_category(newName)
-                    if length > 49:
-                        category2 = await ctx.guild.create_category(newName + " 2")
-                        # list_of_categories.append(category2)
-                        await category2.set_permissions(ctx.guild.default_role, read_messages=False, send_messages=False)
+                    # if length > 49:
+                    #     category2 = await ctx.guild.create_category(newName + " 2")
+                    #     # list_of_categories.append(category2)
+                    #     await category2.set_permissions(ctx.guild.default_role, read_messages=False, send_messages=False)
                 
                     #place category info into list
                     list_of_categories.append(category)                    
@@ -69,10 +89,7 @@ class createClassCommand(commands.Cog): #extends
                 category = list_of_categories[list_of_prefix.index(first_letters)]
                 
                 # create text channel  based on section then place it in the correct category 
-                if len(category.channels) < 49:
-                    await ctx.guild.create_text_channel(section, overwrites=overwrites, category=category)
-                else:
-                    await ctx.guild.create_text_channel(section, overwrites=overwrites, category=category2)
+                await ctx.guild.create_text_channel(section, overwrites=overwrites, category=category) 
                     
             await ctx.channel.send('channels have been created for classes {}'.format(sections))
         

@@ -12,12 +12,12 @@ Search for Classes
 Search Results
 University of Central Florida | Spring 2024
 My Class Schedule
-EML 6067
+BME 6268
 TBA
 Room  TBA
 Shopping Cart
 Your shopping cart is empty.
-The following classes match your search criteria Course Career: Graduate,  Show Open Classes Only: Yes,  Department: 'Mechanical & Aerospace Engr'
+The following classes match your search criteria Course Number less than or equal to '7000',  Course Career: Graduate,  Show Open Classes Only: Yes,  Mode of Instruction: Video (V)
 Descr
 Open
 Open
@@ -25,39 +25,8 @@ Closed
 Closed
 Wait List
 Wait List
-56 class section(s) found
-Collapse section BME 5217C - Mechanics of Biostructures II BME 5217C - Mechanics of Biostructures II 
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-17350
-0011-LAB
-Regular
-Face to Face (P)
-Tu 1:30PM - 4:20PM
-TBA
-Robert Steward
-01/08/2024 - 04/30/2024
-Open	 	
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-16937
-0R01-LEC
-Regular
-Limited Attendance (RS)
-MoWe 10:30AM - 11:45AM
-CB1 O218
-Robert Steward
-01/08/2024 - 04/30/2024
-Open	 	
+93 class section(s) found
 Collapse section BME 6215 - Advanced Biomechanics BME 6215 - Advanced Biomechanics 
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-16938
-0R01-LEC
-Regular
-Limited Attendance (RS)
-TuTh 9:00AM - 10:15AM
-ENG2   0103
-Helen Huang
-01/08/2024 - 04/30/2024
-Open	 	
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
 17045
 0V91-LEC
@@ -70,16 +39,6 @@ Helen Huang
 Open	 	
 Collapse section BME 6231 - Continuum Biomechanics - Modeling Biological Tissues and Structures BME 6231 - Continuum Biomechanics - Modeling Biological Tissues and Structures 
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-17240
-0R01-LEC
-Regular
-Limited Attendance (RS)
-MoWe 9:00AM - 10:15AM
-BA1 O216A
-Luigi Perotti
-01/08/2024 - 04/30/2024
-Open	 	
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
 17241
 0V91-LEC
 Regular
@@ -91,16 +50,6 @@ Luigi Perotti
 Open	 	
 Collapse section BME 6268 - Applied and Computational Biofluids BME 6268 - Applied and Computational Biofluids 
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-17047
-0R01-LEC
-Regular
-Limited Attendance (RS)
-TuTh 12:00PM - 1:15PM
-CB1 O218
-Alain Kassab
-01/08/2024 - 04/30/2024
-Open	 	
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
 20008
 0V91-LEC
 Regular
@@ -109,18 +58,8 @@ ASC
 Online
 Alain Kassab
 01/08/2024 - 04/30/2024
-Open	 	
+Open	 	 
 Collapse section BME 6525 - Methods in Neural-Machine Interfaces BME 6525 - Methods in Neural-Machine Interfaces 
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-17352
-0R01-LEC
-Regular
-Limited Attendance (RS)
-MoWe 10:30AM - 11:45AM
-ENG2   0103
-Qiushi Fu
-01/08/2024 - 04/30/2024
-Open	 	
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
 17353
 0V91-LEC
@@ -131,28 +70,162 @@ Online
 Qiushi Fu
 01/08/2024 - 04/30/2024
 Open	 	
-Collapse section EAS 5123 - Intermediate Aerodynamics EAS 5123 - Intermediate Aerodynamics 
+Collapse section CAP 5516 - Medical Image Computing CAP 5516 - Medical Image Computing 
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-17210
-0R01-LEC
+17454
+0V91-LEC
 Regular
-Limited Attendance (RS)
-Fr 9:00AM - 10:15AM
-ENG2   0103
-Michael Kinzel
+Video (V)
+TuTh 1:30PM - 2:45PM
+TBA
+Chen Chen
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section CAP 6117 - Mixed Reality Project CAP 6117 - Mixed Reality Project 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+19906
+0V61-LEC
+Regular
+Video (V)
+Fr 1:00PM - 3:50PM
+TBA
+Ryan McMahan
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section CAP 6412 - Advanced Computer Vision CAP 6412 - Advanced Computer Vision 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+16147
+0V61-LEC
+Regular
+Video (V)
+MoWe 3:00PM - 4:15PM
+TBA
+Mubarak Shah,
+Gaurav Kumar Nayak
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section CCE 6036 - Advanced Construction Planning and Control CCE 6036 - Advanced Construction Planning and Control 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+19925
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Amr Oloufa
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section CCE 6045 - Cost Analysis of Sustainable Infrastructure Systems CCE 6045 - Cost Analysis of Sustainable Infrastructure Systems 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+19928
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Omer Tatari
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section CEG 5405 - Seepage in Soils CEG 5405 - Seepage in Soils 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+19931
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Jiannan Chen
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section CEG 6065 - Soil Dynamics CEG 6065 - Soil Dynamics 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+19934
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Weiwei Zhan
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section CEG 6115 - Foundation Engineering CEG 6115 - Foundation Engineering 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+16124
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Luis Arboleda Monsalve
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section CES 5606 - Advanced Steel Structures CES 5606 - Advanced Steel Structures 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+17302
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Georgios Apostolakis
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section CES 6715 - Prestressed Concrete Structures CES 6715 - Prestressed Concrete Structures 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+19943
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Hae-Bum Yun
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section CGN 6343 - Cyber-physical Systems & Smart Cities CGN 6343 - Cyber-physical Systems & Smart Cities 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+19946
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Shaurya Agarwal
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section CNT 5410L - Cyber Operations Lab CNT 5410L - Cyber Operations Lab 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+17214
+0V61-LAB
+Regular
+Video (V)
+ASC
+Online
+Cliff Zou
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section CWR 6007 - Ecohydraulics CWR 6007 - Ecohydraulics 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+19949
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Kelly Kibler
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section CWR 6236 - River Engineering and Sediment Transport CWR 6236 - River Engineering and Sediment Transport 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+17398
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Arvind Singh
 01/08/2024 - 04/30/2024
 Open	 	
 Collapse section EAS 5315 - Rocket Propulsion EAS 5315 - Rocket Propulsion 
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-20028
-0R01-LEC
-Regular
-Limited Attendance (RS)
-MoWe 1:30PM - 2:45PM
-ENG2   0103
-Ahmet Ozbay
-01/08/2024 - 04/30/2024
-Open	 	
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
 20029
 0V91-LEC
@@ -165,16 +238,6 @@ Ahmet Ozbay
 Open	 	
 Collapse section EAS 5535 - Engineering Design for Aerospace Vehicles EAS 5535 - Engineering Design for Aerospace Vehicles 
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-20031
-0R01-LEC
-Regular
-Limited Attendance (RS)
-MoWe 12:00PM - 1:15PM
-ENG2   0103
-To be Announced
-01/08/2024 - 04/30/2024
-Open	 	
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
 20032
 0V91-LEC
 Regular
@@ -184,130 +247,372 @@ Online
 To be Announced
 01/08/2024 - 04/30/2024
 Open	 	
-Collapse section EAS 6414 - Estimation of Dynamical Systems in Aerospace Engineering EAS 6414 - Estimation of Dynamical Systems in Aerospace Engineering 
+Collapse section EEE 5370 - Operational Amplifiers EEE 5370 - Operational Amplifiers 
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-20022
-0R01-LEC
+17424
+0V91-LEC
 Regular
-Limited Attendance (RS)
-TuTh 1:30PM - 2:45PM
-ENG2   0103
-Tarek Elgohary
-01/08/2024 - 04/30/2024
-Open	 	
-Collapse section EAS 6971 - Thesis EAS 6971 - Thesis 
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-17549
-0019-THE
-Regular
-Face to Face (P)
-TBA
-TBA
-To be Announced
-TBA
-Open	 	
-Collapse section EAS 7980 - Dissertation EAS 7980 - Dissertation 
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-17246
-0001-DRT
-Regular
-Face to Face (P)
+Video (V)
 ASC
- 
-Tarek Elgohary
+Online
+Arthur Weeks
 01/08/2024 - 04/30/2024
 Open	 	
+Collapse section EEE 5557 - Introduction to Radar Systems EEE 5557 - Introduction to Radar Systems 
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-17578
-0002-DRT
+19909
+0V91-LEC
 Regular
-Face to Face (P)
-TBA
-TBA
-Kareem Ahmed
-01/08/2024 - 04/30/2024
-Open	 	
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-17579
-0003-DRT
-Regular
-Face to Face (P)
-TBA
-TBA
-Ali Gordon
-01/08/2024 - 04/30/2024
-Open	 	
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-17580
-0004-DRT
-Regular
-Face to Face (P)
-TBA
-TBA
-Jeffrey L. Kauffman
-01/08/2024 - 04/30/2024
-Open	 	
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-17581
-0005-DRT
-Regular
-Face to Face (P)
-TBA
-TBA
-Michael Kinzel
-01/08/2024 - 04/30/2024
-Open	 	
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-17582
-0006-DRT
-Regular
-Face to Face (P)
-TBA
-TBA
-Kawai Kwok
-01/08/2024 - 04/30/2024
-Open	 	
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-17583
-0007-DRT
-Regular
-Face to Face (P)
-TBA
-TBA
-Subith Vasu Sumathi
-01/08/2024 - 04/30/2024
-Open	 	
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-17584
-0008-DRT
-Regular
-Face to Face (P)
-TBA
-TBA
-To be Announced
-TBA
-Open	 	
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-17647
-0009-DRT
-Regular
-Face to Face (P)
+Video (V)
 ASC
- 
-Jayanta Kapat
+Online
+W Linwood Jones
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EEE 6527 - Compressive Sensing EEE 6527 - Compressive Sensing 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+17217
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Nazanin Rahnavard
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EEE 6712 - Modeling and Analysis of Networked Cyber-Physical Systems EEE 6712 - Modeling and Analysis of Networked Cyber-Physical Systems 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+17040
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Yaser Pourmohammadi Fallah
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EEL 5173 - Linear Systems Theory EEL 5173 - Linear Systems Theory 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+16790
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Chinwendu Enyioha
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EEL 5255 - Advanced Power Systems Analysis EEL 5255 - Advanced Power Systems Analysis 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+20950
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Qun Zhou Sun
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EEL 5462 - Antenna Analysis and Design EEL 5462 - Antenna Analysis and Design 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+17221
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Xun Gong
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EEL 5582 - Fundamentals of Wireless Communications EEL 5582 - Fundamentals of Wireless Communications 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+20467
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+W Linwood Jones
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EEL 5706 - Resilient Computer System Design EEL 5706 - Resilient Computer System Design 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+20656
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Ronald DeMara
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EEL 5789 - Software-Defined Networking EEL 5789 - Software-Defined Networking 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+19921
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Shafaq Chaudhry
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EEL 5796 - Big Data Computer Architecture and Systems EEL 5796 - Big Data Computer Architecture and Systems 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+20659
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Di Wu
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EEL 5820 - Image Processing EEL 5820 - Image Processing 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+17427
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Hassan Foroosh
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EEL 5937 - Special Topics EEL 5937 - Special Topics 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+20881
+0V92-LEC
+Regular
+Video (V)
+ASC
+Online
+Mike Borowczak
+01/08/2024 - 04/30/2024
+Open	 	
+Topic: ST: ADVANCED VERIFY OF DIG SYS
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+20941
+0V93-LEC
+Regular
+Video (V)
+ASC
+Online
+Zhihua Qu
+01/08/2024 - 04/30/2024
+Open	 	
+Topic: ST: MULTI ANLYS ZERO CARBON EN
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+21326
+0V94-LEC
+Regular
+Video (V)
+ASC
+Online
+Enxia Zhang
+01/08/2024 - 04/30/2024
+Open	 	
+Topic: ST: RADIATION EFFECTS AND RELI
+Collapse section EEL 6246 - Power Electronics II EEL 6246 - Power Electronics II 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+17166
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Issa Batarseh
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EEL 6481 - Numerical Techniques in Electromagnetics EEL 6481 - Numerical Techniques in Electromagnetics 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+21371
+0V01-LEC
+Regular
+Video (V)
+MoWe 6:00PM - 7:15PM
+TBA
+Manoj Shah
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EEL 6504 - Wireless Communications EEL 6504 - Wireless Communications 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+19915
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Azadeh Vosoughi
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EEL 6616 - Adaptive Control EEL 6616 - Adaptive Control 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+17169
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Aman Behal
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EEL 6760 - Data Intensive Computing EEL 6760 - Data Intensive Computing 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+19918
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Jun Wang
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EEL 6812 - Introduction to Neural Networks and Deep Learning EEL 6812 - Introduction to Neural Networks and Deep Learning 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+20697
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Shahana Ibrahim
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EEL 6938 - Special Topics EEL 6938 - Special Topics 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+21004
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Hao Zheng
+01/08/2024 - 04/30/2024
+Open	 	
+Topic: ST: COMPUTER ARCH DESIGN AI/ML
+Collapse section EIN 5346 - Engineering Logistics EIN 5346 - Engineering Logistics 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+17207
+0V61-LEC
+Regular
+Video (V)
+ASC
+Online
+Nabeel Yousef
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EIN 6182 - Engineering Management EIN 6182 - Engineering Management 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+16933
+0V61-LEC
+Regular
+Video (V)
+We 4:30PM - 7:20PM
+TBA
+Mark Calabrese
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EIN 6215 - System Safety Engineering and Management EIN 6215 - System Safety Engineering and Management 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+16880
+0V61-LEC
+Regular
+Video (V)
+ASC
+Online
+Gene Lee
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EIN 6950 - Industrial and Systems Engineering Capstone EIN 6950 - Industrial and Systems Engineering Capstone 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+16929
+0V61-LEC
+Regular
+Video (V)
+ASC
+Online
+Thomas O'Neal
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EMA 5060 - Polymer Science and Engineering EMA 5060 - Polymer Science and Engineering 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+16935
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Lorraine Leon
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EMA 5415 - Electronic Principles of Materials Properties EMA 5415 - Electronic Principles of Materials Properties 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+17154
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Parag Banerjee
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EMA 5586 - Photovoltaic Solar Energy Materials EMA 5586 - Photovoltaic Solar Energy Materials 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+20005
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Kristopher Davis
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EMA 6096 - Research Methods in Materials Science and Engineering EMA 6096 - Research Methods in Materials Science and Engineering 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+20002
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Yang Yang
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EMA 6126 - Physical Metallurgy EMA 6126 - Physical Metallurgy 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+16792
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Tengfei Jiang
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EMA 6516 - X-ray Diffraction and Crystallography EMA 6516 - X-ray Diffraction and Crystallography 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+20484
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Kevin Coffey
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section EMA 6626 - Mechanical Behavior of Materials EMA 6626 - Mechanical Behavior of Materials 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+16137
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Raj Vaidyanathan
 01/08/2024 - 04/30/2024
 Open	 	
 Collapse section EML 5060 - Mathematical Methods in Mechanical and Aerospace Engineering EML 5060 - Mathematical Methods in Mechanical and Aerospace Engineering 
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-17035
-0R01-LEC
-Regular
-Limited Attendance (RS)
-TuTh 3:00PM - 4:15PM
-ENG1 O384
-Hwan Choi
-01/08/2024 - 04/30/2024
-Open	 	
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
 17036
 0V91-LEC
@@ -320,16 +625,6 @@ Hwan Choi
 Open	 	
 Collapse section EML 5090 - Mechanical and Aerospace Seminar EML 5090 - Mechanical and Aerospace Seminar 
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-16788
-0R01-SEM
-Regular
-Limited Attendance (RS)
-Fr 1:30PM - 2:45PM
-ENG2   0103
-Nina Orlovskaya
-01/08/2024 - 04/30/2024
-Open	 	
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
 16936
 0V91-SEM
 Regular
@@ -339,28 +634,7 @@ Online
 Nina Orlovskaya
 01/08/2024 - 04/30/2024
 Open	 	
-Collapse section EML 5152 - Intermediate Heat Transfer EML 5152 - Intermediate Heat Transfer 
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-16141
-0R01-LEC
-Regular
-Limited Attendance (RS)
-MoWe 3:00PM - 4:15PM
-ENG2   0103
-Sagnik Mazumdar
-01/08/2024 - 04/30/2024
-Open	 	
 Collapse section EML 5271 - Intermediate Dynamics EML 5271 - Intermediate Dynamics 
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-16146
-0R01-LEC
-Regular
-Limited Attendance (RS)
-TuTh 4:30PM - 5:45PM
-ENG1 O384
-Tuhin Das
-01/08/2024 - 04/30/2024
-Open	 	
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
 16755
 0V91-LEC
@@ -370,18 +644,9 @@ ASC
 Online
 Tuhin Das
 01/08/2024 - 04/30/2024
-Open	 	
+Open	
+Syllabus
 Collapse section EML 5402 - Turbomachinery EML 5402 - Turbomachinery 
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-20010
-0R01-LEC
-Regular
-Limited Attendance (RS)
-MoWe 4:30PM - 5:45PM
-ENG2   0103
-Jayanta Kapat
-01/08/2024 - 04/30/2024
-Open	 	
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
 20011
 0V91-LEC
@@ -394,16 +659,6 @@ Jayanta Kapat
 Open	 	
 Collapse section EML 6067 - Finite Elements in Mechanical, Materials, and Aerospace Engineering I EML 6067 - Finite Elements in Mechanical, Materials, and Aerospace Engineering I 
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-17050
-0R01-LEC
-Regular
-Limited Attendance (RS)
-TuTh 6:00PM - 7:15PM
-ENG2   0103
-Yuanli Bai
-01/08/2024 - 04/30/2024
-Open	 	
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
 17051
 0V91-LEC
 Regular
@@ -412,18 +667,8 @@ ASC
 Online
 Yuanli Bai
 01/08/2024 - 04/30/2024
-Open	 	 
-Collapse section EML 6085 - Research Methods in Mechanical and Aerospace Engineering EML 6085 - Research Methods in Mechanical and Aerospace Engineering 
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-16148
-0R01-LEC
-Regular
-Limited Attendance (RS)
-MoWe 6:00PM - 7:15PM
-ENG2   0103
-Helen Huang
-01/08/2024 - 04/30/2024
 Open	 	
+Collapse section EML 6085 - Research Methods in Mechanical and Aerospace Engineering EML 6085 - Research Methods in Mechanical and Aerospace Engineering 
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
 16757
 0V91-LEC
@@ -436,16 +681,6 @@ Helen Huang
 Open	 	
 Collapse section EML 6104 - Classical Thermodynamics EML 6104 - Classical Thermodynamics 
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-16143
-0R01-LEC
-Regular
-Limited Attendance (RS)
-MoWe 9:00AM - 10:15AM
-ENG2   0103
-Shawn Putnam
-01/08/2024 - 04/30/2024
-Open	 	
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
 16142
 0V91-LEC
 Regular
@@ -456,16 +691,6 @@ Shawn Putnam
 01/08/2024 - 04/30/2024
 Open	 	
 Collapse section EML 6131 - Combustion Phenomena EML 6131 - Combustion Phenomena 
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-20013
-0R01-LEC
-Regular
-Limited Attendance (RS)
-MoWe 9:00AM - 10:15AM
-ENG1 O384
-Sagnik Mazumdar
-01/08/2024 - 04/30/2024
-Open	 	
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
 20014
 0V91-LEC
@@ -478,16 +703,6 @@ Sagnik Mazumdar
 Open	 	
 Collapse section EML 6157 - Radiation Heat Transfer EML 6157 - Radiation Heat Transfer 
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-20016
-0R01-LEC
-Regular
-Limited Attendance (RS)
-TuTh 10:30AM - 11:45AM
-ENG2   0103
-Tian Tian
-01/08/2024 - 04/30/2024
-Open	 	
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
 20017
 0V91-LEC
 Regular
@@ -499,16 +714,6 @@ Tian Tian
 Open	 	
 Collapse section EML 6211 - Continuum Mechanics EML 6211 - Continuum Mechanics 
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-16758
-0R01-LEC
-Regular
-Limited Attendance (RS)
-MoWe 10:30AM - 11:45AM
-ENG1 O384
-Yuanli Bai
-01/08/2024 - 04/30/2024
-Open	 	
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
 16759
 0V91-LEC
 Regular
@@ -517,18 +722,8 @@ ASC
 Online
 Yuanli Bai
 01/08/2024 - 04/30/2024
-Open	 	 
-Collapse section EML 6295 - Sensors and Actuators for Micro Mechanical Systems EML 6295 - Sensors and Actuators for Micro Mechanical Systems 
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-20019
-0R01-LEC
-Regular
-Limited Attendance (RS)
-MoWe 12:00PM - 1:15PM
-ENG1 O384
-Wen Shen
-01/08/2024 - 04/30/2024
 Open	 	
+Collapse section EML 6295 - Sensors and Actuators for Micro Mechanical Systems EML 6295 - Sensors and Actuators for Micro Mechanical Systems 
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
 20020
 0V91-LEC
@@ -541,16 +736,6 @@ Wen Shen
 Open	 	
 Collapse section EML 6712 - Mechanics of Viscous Flow EML 6712 - Mechanics of Viscous Flow 
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-17298
-0R01-LEC
-Regular
-Limited Attendance (RS)
-TuTh 12:00PM - 1:15PM
-ENG1 O384
-To be Announced
-01/08/2024 - 04/30/2024
-Open	 	
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
 17299
 0V91-LEC
 Regular
@@ -559,18 +744,8 @@ ASC
 Online
 To be Announced
 01/08/2024 - 04/30/2024
-Open	 	 
-Collapse section EML 6808 - Analysis and Control of Robot Manipulators EML 6808 - Analysis and Control of Robot Manipulators 
-Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-20495
-0R01-LEC
-Regular
-Limited Attendance (RS)
-TuTh 12:00PM - 1:15PM
-ENG2   0103
-Yue Wen
-01/08/2024 - 04/30/2024
 Open	 	
+Collapse section EML 6808 - Analysis and Control of Robot Manipulators EML 6808 - Analysis and Control of Robot Manipulators 
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
 20496
 0V91-LEC
@@ -581,37 +756,302 @@ Online
 Yue Wen
 01/08/2024 - 04/30/2024
 Open	 	
-Collapse section EML 6918 - RESEARCH EML 6918 - RESEARCH 
+Collapse section ENV 6016 - Biological Treatment Systems in Environmental Engineering ENV 6016 - Biological Treatment Systems in Environmental Engineering 
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-16657
-0006-RES
+16139
+0V91-LEC
 Regular
-Face to Face (P)
+Video (V)
 ASC
- 
-Louis Chow
+Online
+Andrew Randall
 01/08/2024 - 04/30/2024
 Open	 	
-Collapse section EML 7919 - Research EML 7919 - Research 
+Collapse section ENV 6047 - Environmental Informatics and Remote Sensing ENV 6047 - Environmental Informatics and Remote Sensing 
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-16621
-0012-RES
+19952
+0V91-LEC
 Regular
-Face to Face (P)
+Video (V)
 ASC
- 
-Helen Huang
+Online
+Ni-bin Chang
 01/08/2024 - 04/30/2024
 Open	 	
-Collapse section EML 7980 - Dissertation EML 7980 - Dissertation 
+Collapse section ENV 6519 - Aquatic Chemical Processes ENV 6519 - Aquatic Chemical Processes 
 Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
-16743
-0022-DRT
+19958
+0V91-LEC
 Regular
-Face to Face (P)
+Video (V)
 ASC
- 
-Yoav Peles
+Online
+Steven Duranceau
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section ENV 6533 - Smart Water and Wastewater Management ENV 6533 - Smart Water and Wastewater Management 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+19961
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Woo Hyoung Lee
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section ESI 6247 - Experimental Design and Taguchi Methods ESI 6247 - Experimental Design and Taguchi Methods 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+16132
+0V61-LEC
+Regular
+Video (V)
+ASC
+Online
+Heather Keathley
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section ESI 6261 - Service System Quality Engineering ESI 6261 - Service System Quality Engineering 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+17421
+0V61-LEC
+Regular
+Video (V)
+ASC
+Online
+Ahmad Elshennawy
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section ESI 6535 - Advanced Agent-Based Modeling ESI 6535 - Advanced Agent-Based Modeling 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+17227
+0V61-LEC
+Regular
+Video (V)
+ASC
+Online
+Ivan Garibay
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section LAE 5415 - Children's Literature in Elementary Education LAE 5415 - Children's Literature in Elementary Education 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+18732
+0V61-LEC
+Regular
+Video (V)
+We 6:00PM - 8:50PM
+TBA
+Sherron Roberts
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section MAP 5606 - Differential Equations for Financial Mathematics MAP 5606 - Differential Equations for Financial Mathematics 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+20076
+0V01-LEC
+Regular
+Video (V)
+ASC
+Online
+Yukun Li
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section OSE 5041 - Introduction to Wave Optics OSE 5041 - Introduction to Wave Optics 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+14083
+0V02-LEC
+Regular
+Video (V)
+ASC
+Online
+Pieter Kik
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section OSE 5203 - Geometrical Optics OSE 5203 - Geometrical Optics 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+14076
+0V02-LEC
+Regular
+Video (V)
+ASC
+Online
+Stephen Eikenberry
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section OSE 5312 - Light Matter Interaction OSE 5312 - Light Matter Interaction 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+14048
+0V02-LEC
+Regular
+Video (V)
+ASC
+Online
+Romain Gaume
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section OSE 6125 - Computational Photonics OSE 6125 - Computational Photonics 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+14089
+0V02-LEC
+Regular
+Video (V)
+ASC
+Online
+Miguel Bandres
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section OSE 6211 - Imaging and Optical Systems OSE 6211 - Imaging and Optical Systems 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+14067
+0V02-LEC
+Regular
+Video (V)
+ASC
+Online
+Aristide Dogariu
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section OSE 6242 - Infrared Systems OSE 6242 - Infrared Systems 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+20403
+0V02-LEC
+Regular
+Video (V)
+ASC
+Online
+Konstantin Vodopyanov
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section OSE 6347 - Quantum Optics OSE 6347 - Quantum Optics 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+14091
+0V02-LEC
+Regular
+Video (V)
+TBA
+TBA
+Ayman Abouraddy
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section OSE 6474 - Fundamentals of Optical Fiber Communications OSE 6474 - Fundamentals of Optical Fiber Communications 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+14069
+0V02-LEC
+Regular
+Video (V)
+ASC
+Online
+Pawel Stanislaw Jung
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section OSE 6650 - Optical Properties of Nanostructured Materials OSE 6650 - Optical Properties of Nanostructured Materials 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+14093
+0V02-LEC
+Regular
+Video (V)
+ASC
+Online
+Pieter Kik
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section OSE 6938 - Special Topics OSE 6938 - Special Topics 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+20987
+0V60-LEC
+Regular
+Video (V)
+ASC
+Online
+Arkadiy Lyakh
+01/08/2024 - 04/30/2024
+Open	 	
+Topic: ST: QUANTUM CASCADE LASERS
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+21122
+0V61-LEC
+Regular
+Video (V)
+ASC
+Online
+Sasan Fathpour
+01/08/2024 - 04/30/2024
+Open	 	
+Topic: ST: HIGH SPEED PHOTONICS
+Collapse section PLA 6245 - Advanced Applied Negotiation and Conflict Resolution PLA 6245 - Advanced Applied Negotiation and Conflict Resolution 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+19154
+0V61-LEC
+Regular
+Video (V)
+Mo 6:00PM - 8:50PM
+TBA
+Christy Foley
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section SPA 6401 - Language Disorders in Infants and Toddlers SPA 6401 - Language Disorders in Infants and Toddlers 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+20463
+0V01-LEC
+Regular
+Video (V)
+Tu 6:00PM - 8:50PM
+TBA
+Julie Feuerstein
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section SPA 6432 - Issues in Autism SPA 6432 - Issues in Autism 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+15091
+0V01-LEC
+Regular
+Video (V)
+Th 6:00PM - 8:50PM
+TBA
+Nancy McIntyre
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section SPA 6563L - Clinical Practice and Instrumental Diagnostics in Individuals with Dysphagia SPA 6563L - Clinical Practice and Instrumental Diagnostics in Individuals with Dysphagia 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+15314
+0V11-LAB
+Regular
+Video (V)
+We 6:00PM - 6:50PM
+TBA
+Todd Fix
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section TTE 5204 - Traffic Engineering TTE 5204 - Traffic Engineering 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+16134
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Hatem Abou-Senna
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section TTE 6205 - Highway Capacity TTE 6205 - Highway Capacity 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+19967
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Haitham Al-Deek
+01/08/2024 - 04/30/2024
+Open	 	
+Collapse section TTE 6910 - TTA Capstone Course TTE 6910 - TTA Capstone Course 
+Class	Section	Mode	Days & Times	Room	Instructor	Meeting Dates	Status	Syllabus	 
+17416
+0V91-LEC
+Regular
+Video (V)
+ASC
+Online
+Naveen Eluru
 01/08/2024 - 04/30/2024
 Open	 	
 Go to top iconGo to top
