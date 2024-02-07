@@ -23,6 +23,7 @@ class registerCommand(commands.Cog): #extends
         
         #initalize variable to confirm reception of course
         #found = False
+        course = course.lower()
         category = "junk"
 
         if category is None:
