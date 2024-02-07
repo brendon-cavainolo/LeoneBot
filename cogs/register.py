@@ -54,6 +54,7 @@ class registerCommand(commands.Cog): #extends
         #initalize variable to confirm reception of course
         #found = False
         category = "junk"
+        course = course.lower()
 
         if category is None:
             await ctx.channel.send('No classes exist.\n')
