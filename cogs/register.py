@@ -41,8 +41,7 @@ class registerCommand(commands.Cog): #extends
             await ctx.channel.send('This class does not exist. Please check your input again or message a mod if you believe there is an error.\n')
 
 
- @commands.command(name= 'withdraw', aliases= ['leave','unregister'])
-    #async def register(self, ctx, *, course):# self is instance of class
+    @commands.command(name= 'withdraw', aliases= ['leave','unregister'])
     async def unregister(self, ctx,  course): #member: discord.Member: self is instance of class
         if not valid_channel(ctx):
             await ctx.send("Wrong channel. Please use this command in #class_request")
