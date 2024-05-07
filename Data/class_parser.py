@@ -11,7 +11,7 @@ def matchBuildingCode(string):
   bldgs = [
            'CB1', 'CB2', 'NSC', 'VAB',
            'HPA', 'ENG1', 'ENG2', 'MSB',
-           'PSB', 'BIO', 'CHEM', 'HEC']
+           'PSB', 'BIO', 'CHEM', 'HEC','CROL']
 
   for bldg in bldgs:
     # Class is taught asychronisly 
@@ -70,6 +70,7 @@ class class_parser:
             classes.append(lines[j])
             j = j + 1
           class_sections.append(classes)
+        
 
         # First element in text is not a class, and must be deleted. 
         class_sections.pop(0)
@@ -102,7 +103,6 @@ class class_parser:
             if not_a_class(class_label):
                 final_list.pop(i)
    
-          
         return final_list
           
 

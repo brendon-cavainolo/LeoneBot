@@ -2,6 +2,7 @@
 from discord.ext import commands
 from discord.ext.commands import bot, cog
 import discord
+from discord.utils import get
 from Data import class_parser as cp
 
 
@@ -10,12 +11,13 @@ class createClassCommand(commands.Cog): #extends
         self.bot = bot
 
     @commands.command(name= 'create_classes', aliases= ['createclasses'])
+    @commands.has_permissions(manage_channels=True)
 
     async def create_classes(self, ctx): #member: discord.Member: self is instance of class
         def replace(text):
             name = "no name"
             if text == 'ose':
-                name = 'Optics & Photonics'
+                name = 'Optics and Photonics'
             if text == 'env':
                 name = 'Engineering: Environmental'
             if text == 'ein' or text == 'esi':
@@ -44,23 +46,20 @@ class createClassCommand(commands.Cog): #extends
             first_letters = ""
             category = None
             category2 = None
-            admin_role = discord.utils.get(guild.roles, name="Admin")
-            mod_role = discord.utils.get(guild.roles, name="Moderator")
-            ModBot = discord.utils.get(guild.roles, name="ModBot")
+            admin_role = discord.utils.get(ctx.guild.roles, name="Admin")
+            mod_role = discord.utils.get(ctx.guild.roles, name="Moderator")
+            ModBot = discord.utils.get(ctx.guild.roles, name="ModBot")
             # save attachment to server
             file = ctx.message.attachments[0].filename
-            print(file)
             await ctx.message.attachments[0].save("Data/" + file)
             
             # parse contents of file to get classes
             sections = cp.class_parser().parse(file)
             length = len(sections)
-            
             overwrites = {
-                ctx.guild.default_role: discord.PermissionOverwrite(read_messages= False), 
-                ctx.guild.admin_role: discord.PermissionOverwrite(read_messages= True),
-                ctx.guild.mod_role: discord.PermissionOverwrite(read_messages= True),
-                ctx.guild.ModBot: discord.PermissionOverwrite(read_messages= True),
+                ctx.guild.default_role: discord.PermissionOverwrite(read_messages=False), 
+                admin_role: discord.PermissionOverwrite(read_messages=True), 
+                mod_role: discord.PermissionOverwrite(read_messages=True), 
             }
             # pull prefix from sections of classes
             for section in sections:
