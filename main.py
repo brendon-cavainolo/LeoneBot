@@ -8,12 +8,6 @@ import random, os
 from dotenv import load_dotenv
 
 
-def get_quote():
-    response = requests.get("https://zenquotes.io/api/random")
-    json_data = json.loads(response.text)
-    quote = json_data[0]['q'] + " -" + json_data[0]['a']
-    return quote
-
 # class Client(discord.Client):
 #     async def on_ready(self):
 #         print('{0} is logged in !'.format(self.user))
